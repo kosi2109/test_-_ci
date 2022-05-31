@@ -35,6 +35,6 @@ jobs:
     - name: Run test
       run: |
           npm run test
-    - name: Start app
-      run: |
-          npm start
+    # - name: Start app
+    #   run: |
+    #       npm start
